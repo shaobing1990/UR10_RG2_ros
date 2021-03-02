@@ -1,5 +1,4 @@
 # UR10_RG2_ros
-# ur10_rg2_ros
 This repository provides codes for urdf, control and interface of On-Robot's RG2 gripper with ROS, MoveIt using UR10 manipulator.
 Link1: https://www.universal-robots.com/plus/product/rg2-gripper-22723/
 Link2: http://onrobot.com/products/
